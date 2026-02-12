@@ -32,7 +32,5 @@ The project uses a dataset containing 20 weeks of e-commerce sales data, includi
 
 ## Insights
 - Key factors influencing returns
-- Predictedvreturn trends for different products
-- Recommendations for minimising returns
 - Predicted return trends for different products
 - Recommendations for minimizing returns
